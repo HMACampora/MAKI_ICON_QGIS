@@ -1,0 +1,1 @@
+# MAKI_ICON_QGIS
